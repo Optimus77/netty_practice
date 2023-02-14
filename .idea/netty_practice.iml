@@ -2,7 +2,37 @@
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/example/实战案例代码/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/example/实战案例代码/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/sourcecode/netty-patch-14/buffer/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sourcecode/netty-patch-14/codec-dns/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sourcecode/netty-patch-14/codec-haproxy/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sourcecode/netty-patch-14/codec-http/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sourcecode/netty-patch-14/codec-http2/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sourcecode/netty-patch-14/codec-memcache/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sourcecode/netty-patch-14/codec-mqtt/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sourcecode/netty-patch-14/codec-redis/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sourcecode/netty-patch-14/codec-smtp/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sourcecode/netty-patch-14/codec-socks/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sourcecode/netty-patch-14/codec-stomp/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sourcecode/netty-patch-14/codec-xml/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sourcecode/netty-patch-14/codec/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sourcecode/netty-patch-14/common/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sourcecode/netty-patch-14/example/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sourcecode/netty-patch-14/handler-proxy/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sourcecode/netty-patch-14/handler/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sourcecode/netty-patch-14/microbench/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sourcecode/netty-patch-14/resolver-dns/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sourcecode/netty-patch-14/resolver/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sourcecode/netty-patch-14/transport-native-epoll/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sourcecode/netty-patch-14/transport-native-kqueue/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sourcecode/netty-patch-14/transport-native-unix-common/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sourcecode/netty-patch-14/transport-rxtx/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sourcecode/netty-patch-14/transport-sctp/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sourcecode/netty-patch-14/transport-udt/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sourcecode/netty-patch-14/transport/src/main/java" isTestSource="false" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
